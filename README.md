@@ -1,5 +1,7 @@
 # Unsloth Fine-tuning Pipeline
-
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Unsloth](https://img.shields.io/badge/Unsloth-Supported-purple) <br>
 A production-ready pipeline for fine-tuning large language models using Unsloth with YAML-based configuration, advanced training features, and web-based model serving.
 
 ## Tutorial
