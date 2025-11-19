@@ -2,10 +2,18 @@
 
 A production-ready pipeline for fine-tuning large language models using Unsloth with YAML-based configuration, advanced training features, and web-based model serving.
 
+## Tutorial
+[![Medium](https://img.shields.io/badge/Medium-Read_the_Tutorial-black?logo=medium&style=for-the-badge)](https://medium.com/@acarismailkagan/fine-tuning-llm-with-unsloth-a-practical-guide-to-training-models-like-qwen3-8b-on-a-consumer-gpu-4116088a207c) <br>
+Want to understand how this pipeline works step-by-step? 
+Check out my detailed guide on Medium:  
+**[Fine-Tuning LLM with Unsloth: A Practical Guide to Training Models like Qwen 2.5](https://medium.com/@acarismailkagan/fine-tuning-llm-with-unsloth-a-practical-guide-to-training-models-like-qwen3-8b-on-a-consumer-gpu-4116088a207c)**
+
+
+
 ## Overview
+This pipeline provides a streamlined approach to fine-tuning language models. 
 
-This pipeline provides a streamlined approach to fine-tuning language models with:
-
+Key features include:
 - Single YAML configuration file for all training parameters
 - Smart early stopping with multiple stop conditions
 - Memory-optimized training with 4-bit quantization
